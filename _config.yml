@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alida Perez-Fodich"
+title                    : "Paleoambiente Consultores"
 title_separator          : "-"
-name                     : "Alida    Perez-Fodich"
+name                     : "Paleoambiente Consultores"
 #description              : "This is my personal webpage"
-url                      : "https://aliperezfodich.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://paleoambiente.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
