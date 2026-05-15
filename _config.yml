@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Paleoambiente Consultores"
   avatar           : "paleo1.png"
-  bio              : "I study geochemical reactions in the Critical Zone. Assistant Professor at University of Chile."
+  bio              : "Asesorías Geologicas y paleontológicas"
   location         : "Santiago, Chile"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl=fr&oi=ao"
-  email            : "aliperez@uchile.cl"
-  researchgate     : "https://www.researchgate.net/profile/Alida_Perez-Fodich"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "explogeologia@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"https://www.linkedin.com/in/alida-perez-fodich-a0a934a3/"
-  orcid            : "https://orcid.org/0000-0002-3137-4473"
+  orcid            : "https://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
