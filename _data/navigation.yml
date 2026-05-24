@@ -9,10 +9,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
+  - title: "Contacto"
     url: /contact/
     
-  - title: "Collaborators"
+  - title: "Quienes somos"
     url: /lab/
     
   - title: "Join"
