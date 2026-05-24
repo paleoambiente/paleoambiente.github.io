@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Investigación y consultoría"
+title: "Servicios"
 permalink: /research/
 author_profile: true
 
 ---
-<h2><b><a href="https://aliperezfodich.github.io/research/subduction-weathering">Weathering rates in continental arc volcanoes</a></b></h2> 
+<h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Monitoreos paleontológicos</a></b></h2> 
 
-<img style="float: center;" src="/images/tolhuaca-cave-small.png" style="width:500px;">
-<p style="font-size:small">Hydrothermal alteration at the Tolhuaca Volcano. Featuring <a href="https://www.researchgate.net/profile/Daniele-Tardani">Daniele Tardani</a> and <a href="http://www.elilab.org">Gerdhard Jessen</a> in 2021.</p> 
+<img style="float: center;" src="/images/monitoreo1.jpg" style="width:500px;">
+<p style="font-size:small">Monitoreo paleontológico en terreno
 
 ----
 <h2><b><a href="https://aliperezfodich.github.io/research/silica">Geochemistry of active and fossil sinter deposits</a></b></h2> 
