@@ -8,34 +8,18 @@ author_profile: true
 <h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Monitoreos paleontológicos</a></b></h2> 
 
 <img style="float: center;" src="/images/m3.jpeg" style="width:500px;">
-<p style="font-size:small">Monitoreo paleontológico en terreno
+<p style="font-size:small">Monitoreo paleontológico en terreno:
+Durante las fases de movimiento de tierra y excavación, la normativa exige medidas preventivas para salvaguardar posibles bienes patrimoniales. El monitoreo paleontológico consiste en la presencia experta in situ para la detección, rescate y protección oportuna de hallazgos fortuitos.Al contar con profesionales directamente en el frente de trabajo, aseguras la agilidad que la obra requiere.Inspección permanente o periódica de frentes de excavación y marinas.Gestión rápida ante hallazgos: Elaboración de reportes de hallazgo al CMN en menos de 24 horas y aplicación de protocolos de rescate sin paralizar innecesariamente las faenas.
+  Elaboración de informes periódicos (mensuales y finales) requeridos por la Superintendencia del Medio Ambiente (SMA).  
+  El valor para tu empresa: Capacidad de respuesta inmediata en terreno, asegurando el cumplimiento estricto de tu Resolución de Calificación Ambiental (RCA) mientras se mantiene la continuidad operativa de la maquinaria.
 
 ----
-<h2><b><a href="https://aliperezfodich.github.io/research/silica">Geochemistry of active and fossil sinter deposits</a></b></h2> 
+<h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Estudios de Líneas de base</a></b></h2> 
 
-<img style="float: center;" src="/images/tatio-ps-small.png" style="width:500px;">
-<p style="font-size:small">Silica in a perpetual spouter pool at El Tatio geothermal field.</p> 
-
+<img style="float: center;" src="/images/m3.jpeg" style="width:500px;">
+<p style="font-size:small">Línes de base: Líneas de base paleontología y LB Geología.
 ----
-<h2><b><a href="https://aliperezfodich.github.io/research/volcanic-weathering">Modeling weathering of volcanic rocks</a></b></h2> 
 
-<img style="float: center;" src="/images/basalt-fern-small.png" style="width:300px;">
-<p style="font-size:small">Hawaiian fern (<i>Cibotium menziesii</i>) growing on the fresh surfaces of the Pu’u O’o Kupaianaha 1986 – 1992 lava flow.</p>
-
-----
-<h2><b><a href="https://aliperezfodich.github.io/research/GeSi-clays">Fractionation of Ge/Si ratios in clays and transient behavior in natural systems</a></b></h2> 
-
-----
-<h2><b><a href="https://aliperezfodich.github.io/research/Atacama-nitrates">Sources and long-term accumulation of salt deposits in the Atacama Desert</a></b></h2> 
-
-<img style="float: center;" src="/images/fernanda-atacama.JPG">
-<p style="font-size:small">The Salar Grande deposit in the Atacama Desert. Tarapacá region in Chile. Featuring <a href="https://fcqudec.cl/nuestro-personal/dra-fernanda-alvarez-amado/">Fernanda Alvarez</a> over massive halite crystals. Picture taken by <a href="https://researchmap.jp/glen_snyder/?lang=english">Glen Snyder</a> in 2011.</p>
-
-----
-<h2><b><a href="https://aliperezfodich.github.io/research/Hawaii-landscape">Effects of weathering in the landscape evolution of Hawaiian islands</a></b></h2> 
-
-<img style="float: center;" src="/images/research2.jpg">
-<p style="font-size:small">Soil profiles in the northern Kohala coast of Hawaii. Featuring Andres Aguirre and <a href="http://www.geo.cornell.edu/eas/PeoplePlaces/Faculty/derry-new/index.html">Lou Derry</a> in  2016.</p>
 
 
 
