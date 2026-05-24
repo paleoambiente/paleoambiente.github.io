@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Investigación y consultoría"
 permalink: /research/
 author_profile: true
 
