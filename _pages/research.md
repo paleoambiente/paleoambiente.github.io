@@ -16,7 +16,7 @@ Durante las fases de movimiento de tierra y excavación, la normativa exige medi
 ----
 <h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Estudios de Líneas de base</a></b></h2> 
 
-<img style="float: center;" src="/images/m3.jpeg" style="width:500px;">
+<img style="float: center;" src="/images/carlos1.jpg" style="width:500px;">
 <p style="font-size:small">Línes de base: Líneas de base paleontología y LB Geología.
 ----
 
