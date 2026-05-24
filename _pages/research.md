@@ -9,7 +9,7 @@ author_profile: true
   /* Justificar todos los párrafos */
   p {
     text-align: justify;
-    font-size: medium;
+    font-size: large;
   }
 
   /* Centrar imágenes correctamente (reemplaza float: center que no es válido) */
