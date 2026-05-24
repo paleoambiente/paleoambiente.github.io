@@ -7,7 +7,7 @@ author_profile: true
 ---
 <h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Monitoreos paleontológicos</a></b></h2> 
 
-<img style="float: center;" src="/images/monitoreo1.jpeg" style="width:500px;">
+<img style="float: center;" src="/images/m3.jpeg" style="width:500px;">
 <p style="font-size:small">Monitoreo paleontológico en terreno
 
 ----
