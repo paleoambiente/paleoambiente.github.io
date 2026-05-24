@@ -17,7 +17,8 @@ Durante las fases de movimiento de tierra y excavación, la normativa exige medi
 <h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Estudios de Líneas de base</a></b></h2> 
 
 <img style="float: center;" src="/images/carlos1.jpg" style="width:500px;">
-<p style="font-size:small">Línes de base: Líneas de base paleontología y LB Geología.
+<p style="font-size:medium">Línes de base: Líneas de base paleontología y LB Geología.
+  De acuerdo con los lineamientos del CMN, una Línea de Base exige la descripción detallada del área de influencia de un proyecto antes de su ejecución, con el fin de identificar y evaluar posibles impactos sobre el patrimonio.  Nuestro servicio ofrece una caracterización exhaustiva del terreno. Aplicamos un análisis riguroso, fundamentado en conocimientos avanzados de estratigrafía y sedimentología, para clasificar con precisión las unidades geológicas de tu proyecto (fosilíferas, susceptibles o estériles).Revisión bibliográfica exhaustiva y levantamiento de terreno.Evaluación del potencial paleontológico y contexto geológico.Diseño de medidas de mitigación exactas y a la medida de la obra.El valor para tu empresa: Garantizamos que tu proyecto ingrese al sistema de evaluación con información robusta e inobjetable, minimizando el riesgo de adendas complejas, rechazos o retrasos costosos.
 ----
 
 
