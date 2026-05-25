@@ -6,92 +6,53 @@ author_profile: true
 ---
 
 <style>
-  /* Contenedor aislado */
-  .paleo-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem;
-    font-family: system-ui, sans-serif;
-  }
-  .paleo-hero {
-    background: #1e3a20;
-    color: white;
-    text-align: center;
-    padding: 2rem;
-    border-radius: 1rem;
-  }
-  .paleo-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    margin: 2rem 0;
-  }
-  .paleo-card {
-    background: white;
-    border-radius: 1rem;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    flex: 1;
-    min-width: 250px;
-  }
-  .paleo-card img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-  }
-  .paleo-card-content {
-    padding: 1.2rem;
-  }
-  .paleo-card-content p {
+  /* Justificar todos los párrafos */
+  p {
     text-align: justify;
+    font-size: large;
   }
-  .paleo-btn {
-    background: #2c5e2e;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 2rem;
-    text-decoration: none;
-    display: inline-block;
+
+  /* Centrar imágenes correctamente (reemplaza float: center que no es válido) */
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;  /* mantiene el ancho que ya tenías */
+    max-width: 100%; /* hace que sea responsive en móviles */
+    height: auto;
   }
-  .paleo-footer {
-    text-align: center;
-    margin-top: 2rem;
-    padding-top: 1rem;
+
+  /* Separación entre secciones */
+  hr {
+    margin: 2rem 0;
+    border: 0;
     border-top: 1px solid #ccc;
   }
-  @media (max-width: 700px) {
-    .paleo-grid { flex-direction: column; }
+
+  /* Opcional: justificar también los títulos de las entradas en el layout archive si los hay */
+  .archive__item-excerpt {
+    text-align: justify;
   }
 </style>
 
-<div class="paleo-container" markdown="1">
+<h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Monitoreos paleontológicos</a></b></h2> 
 
-<div class="paleo-hero">
-  <h1>🌿 PaleoAmbiente Consultores</h1>
-  <p>Protegiendo el patrimonio paleontológico sin detener tu obra</p>
-</div>
+<img src="/images/m3.jpeg" alt="Monitoreo paleontológico">
 
-<div class="paleo-grid">
-  <div class="paleo-card">
-    <img src="/images/m3.jpeg" alt="Monitoreo">
-    <div class="paleo-card-content">
-      <h3>🔍 Monitoreos paleontológicos</h3>
-      <p><strong>Presencia experta in situ</strong> durante movimientos de tierra. Respuesta ágil ante hallazgos, informes para la SMA sin paralizar faenas. El valor: cumplimiento estricto de tu RCA con continuidad operativa.</p>
-      <a href="#" class="paleo-btn">Solicitar cotización →</a>
-    </div>
-  </div>
-  <div class="paleo-card">
-    <img src="/images/carlos1.jpg" alt="Línea de base">
-    <div class="paleo-card-content">
-      <h3>📋 Estudios de Línea de Base</h3>
-      <p>Caracterización exhaustiva con análisis estratigráfico. Clasificación de unidades: fosilíferas, susceptibles o estériles. Evita adendas complejas y retrasos costosos en el SEIA.</p>
-      <a href="#" class="paleo-btn">Más información →</a>
-    </div>
-  </div>
-</div>
+<p>
+Monitoreo paleontológico en terreno:<br>
+Durante las fases de movimiento de tierra y excavación, la normativa exige medidas preventivas para salvaguardar posibles bienes patrimoniales. El monitoreo paleontológico consiste en la presencia experta in situ para la detección, rescate y protección oportuna de hallazgos fortuitos. Al contar con profesionales directamente en el frente de trabajo, aseguras la agilidad que la obra requiere. Inspección permanente o periódica de frentes de excavación y marinas. 
+  </p>
+  <p>
+  Gestión rápida ante hallazgos: Elaboración de reportes de hallazgo al CMN en menos de 24 horas y aplicación de protocolos de rescate sin paralizar innecesariamente las faenas. Elaboración de informes periódicos (mensuales y finales) requeridos por la Superintendencia del Medio Ambiente (SMA). El valor para tu empresa: Capacidad de respuesta inmediata en terreno, asegurando el cumplimiento estricto de tu Resolución de Calificación Ambiental (RCA) mientras se mantiene la continuidad operativa de la maquinaria.
+</p>
 
-<div class="paleo-footer">
-  <p>PaleoAmbiente Consultores | contacto@paleoambiente.cl</p>
-</div>
+<hr>
 
-</div>
+<h2><b><a href="https://paleoambiente.github.io/research/monitoreos">Estudios de Líneas de base</a></b></h2> 
+
+<img src="/images/carlos1.jpg" alt="Estudios de línea de base">
+
+<p>
+De acuerdo con los lineamientos del CMN, una Línea de Base exige la descripción detallada del área de influencia de un proyecto antes de su ejecución, con el fin de identificar y evaluar posibles impactos sobre el patrimonio. Nuestro servicio ofrece una caracterización exhaustiva del terreno. Aplicamos un análisis riguroso, fundamentado en conocimientos avanzados de estratigrafía y sedimentología, para clasificar con precisión las unidades geológicas de tu proyecto (fosilíferas, susceptibles o estériles). Revisión bibliográfica exhaustiva y levantamiento de terreno. Evaluación del potencial paleontológico y contexto geológico. Diseño de medidas de mitigación exactas y a la medida de la obra. El valor para tu empresa: Garantizamos que tu proyecto ingrese al sistema de evaluación con información robusta e inobjetable, minimizando el riesgo de adendas complejas, rechazos o retrasos costosos.
+</p>
