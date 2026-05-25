@@ -8,5 +8,5 @@ permalink: /contact/
 ---
 Email: **paleoambienteconsultores@gmail.com**
 
-Paleoambiente consultores
+
 Monjitas 527, Santiago, Chile
