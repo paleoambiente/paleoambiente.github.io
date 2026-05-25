@@ -6,7 +6,7 @@ author_profile: true
 permalink: /contact/
 
 ---
-Email: **aliperez [at] uchile [dot] cl**
+Email: **paleoambienteconsultores@gmail.com**
 
-Department of Geology, University of Chile
-Plaza Ercilla 803, Santiago, Chile
+Paleoambiente consultores
+Monjitas 527, Santiago, Chile
