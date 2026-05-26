@@ -15,11 +15,11 @@ main:
   - title: "Quienes somos"
     url: /lab/
     
-  - title: "Join"
-    url: /join/    
+  #- title: "Join"
+  #  url: /join/    
     
-  - title: "Podcast"
-    url: /rocadictos/   
+ # - title: "Podcast"
+  #  url: /rocadictos/   
 
   #- title: "Talks"
   #  url: /talks/    
