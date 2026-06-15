@@ -8,18 +8,22 @@ redirect_from:
   - /about.md
   - /about.html
 ---
-About me
+Acerca de
 ======
 
-I am a **low-temperature geochemist**, and an Assistant Professor at <a href="http://www.geologia.uchile.cl">University of Chile</a> in Santiago. Previously, I was a student fellow of the Make Our Planet Great Again Program.
+En Paleoambiente SpA ofrecemos soluciones integrales en consultoría paleontológica, geológica y ambiental con la agilidad y el compromiso que solo un equipo de profesionales independientes puede entregar. Nos especializamos en resolver asesorías técnicas tanto para pequeñas empresas locales como para grandes corporaciones inmobiliarias, industriales y de infraestructura, asegurando que cada proyecto cumpla de forma rigurosa y eficiente con la normativa vigente ante el Sistema de Evaluación de Impacto Ambiental (SEIA) y el Consejo de Monumentos Nacionales (CMN).
 
-Research interests
+Filosofía corporativa
 ======
 
-I am interested in the (bio)geochemical reactions occurring at the Earth’s surface and how these reactions shape the evolution of the Critical Zone—the thin layer from the top of the canopy down to the water table that sustains life. Within the CZ, weathering, trace element cycling and (some) hydrology devote most of my interest. <br>
-To answer these questions I use geochemical data and models that help me understand the relationship between biota, water—i.e. rainfall, stream discharge, groundwater—and secondary minerals and salts that precipitate in the open landscape.<br>
-My interest in geochemistry of the Critical Zone comes from the realization that as humans, we do not have much time left to act on climate change, but that understanding of present natural systems is paramount to do something about it!
 
+Misión
+
+    "Nuestra misión es consolidarnos como la consultora independiente líder en el rubro de la gestión ambiental, paleontológica y geológica en Chile. Nos dedicamos a resolver con excelencia, dinamismo y precisión técnica los requerimientos de pequeñas y grandes empresas en sus procesos de evaluación y ejecución de proyectos. Nos diferenciamos por un modelo operativo ágil, directo y libre de burocracias corporativas, asegurando el estricto cumplimiento normativo ante el SEIA y el CMN mediante el despliegue de profesionales especialistas en terreno y un soporte integral que abarca desde la rigurosidad científica hasta soluciones de cartografía y topografía."
+
+Visión
+
+    "Aspiramos a transformar el estándar de la consultoría técnica, siendo reconocidos no solo por el rigor de nuestra base científica, sino por redefinir la experiencia del cliente a través de la excelencia en la gestión. Visualizamos un servicio donde la calidad va más allá del informe técnico, integrando habilidades blandas críticas como una comunicación transparente, empática y oportuna, un trato personalizado y un compromiso genuino con los desafíos de cada desarrollador. Buscamos ser el socio estratégico que convierta la complejidad ambiental en certidumbre, combinando la alta academia con una calidad humana e impecable que genere total tranquilidad y confianza en cada etapa de la obra."
 
 <img style="float: center;" src="/images/Chamiza.png">
 
