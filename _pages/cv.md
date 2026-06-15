@@ -21,7 +21,7 @@ Paleontólogos de proyectos
 
 Geólogo – Carlos A. Fernandoy (consultor ad oc)
 
-[CV actualizado mayo 2025](https://paleoambiente.github.io/files/CV_carlos_mayo2026.pdf)
+[CV actualizado junio 2025](https://paleoambiente.github.io/files/cv_carlosasenjo_junio2026.pdf)
 
 Colaboradores de paleontólogos
 ======
