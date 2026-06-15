@@ -3,7 +3,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
+Publicaciones del equipo científico consultor:
 
 **Published**<br>
 Feola, S., Melchor, R., de Manera, T.,  Rojas-Manríquez, M. (2026). Fossil ground sloth footprints: 
