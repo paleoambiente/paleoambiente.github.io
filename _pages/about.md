@@ -8,6 +8,23 @@ redirect_from:
   - /about.md
   - /about.html
 ---
+
+<style>
+  /* Justificar todos los párrafos generados por Markdown */
+  p {
+    text-align: justify;
+  }
+
+  /* Centrar la imagen correctamente */
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 Acerca de
 ======
 
@@ -16,6 +33,7 @@ En Paleoambiente SpA ofrecemos soluciones integrales en consultoría paleontoló
 
 Filosofía corporativa
 ======
+
 Misión
 
 Nuestra misión es consolidarnos como la consultora independiente líder en el rubro de la gestión ambiental, paleontológica y geológica en Chile. Nos dedicamos a resolver con excelencia, dinamismo y precisión técnica los requerimientos de pequeñas y grandes empresas en sus procesos de evaluación y ejecución de proyectos. Nos diferenciamos por un modelo operativo ágil, directo y libre de burocracias corporativas, asegurando el estricto cumplimiento normativo ante el SEIA y el CMN mediante el despliegue de profesionales especialistas en terreno y un soporte integral que abarca desde la rigurosidad científica hasta soluciones de cartografía y topografía.
@@ -24,5 +42,4 @@ Visión
 
 Aspiramos a transformar el estándar de la consultoría técnica, siendo reconocidos no solo por el rigor de nuestra base científica, sino por redefinir la experiencia del cliente a través de la excelencia en la gestión. Visualizamos un servicio donde la calidad va más allá del informe técnico, integrando habilidades blandas críticas como una comunicación transparente, empática y oportuna, un trato personalizado y un compromiso genuino con los desafíos de cada desarrollador. Buscamos ser el socio estratégico que convierta la complejidad ambiental en certidumbre, combinando la alta academia con una calidad humana e impecable que genere total tranquilidad y confianza en cada etapa de la obra.
 
-<img style="float: center;" src="/images/paleo1.png">
-
+<img src="/images/paleo1.png" alt="Paleoambiente">
