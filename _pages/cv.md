@@ -15,6 +15,10 @@ Paleontólogo titular
 Ph. D. –  Doctor Manuel Rojas Manriquez
 
 [CV actualizado mayo 2025](https://paleoambiente.github.io/files/CV_manurojas_mayo2026.pdf)
+<img style="float: center;" src="/images/manu2.jpeg" width = "290" height = "290">
+
+---
+
 
 Paleontólogos de proyectos
 ======
@@ -22,6 +26,8 @@ Paleontólogos de proyectos
 Geólogo – Carlos A. Fernandoy (consultor ad oc)
 
 [CV actualizado junio 2025](https://paleoambiente.github.io/files/CV_carlosasenjo_junio2026.pdf)
+<img style="float: center;" src="/images/monitoreo1.jpeg" width = "290" height = "290">
+
 
 Colaboradores de paleontólogos
 ======
