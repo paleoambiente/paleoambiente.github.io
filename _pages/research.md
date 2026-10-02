@@ -129,5 +129,5 @@ author_profile: true
 <div class="value-box">
   <b>¿Tienes un proyecto en evaluación o inicio de obras?</b><br>
   Contáctanos directamente para cotizar o revisar tus requerimientos normativos: <br>
-  📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 / +56 9 78006975</b>
+  📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 / </b>
 </div>
