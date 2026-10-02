@@ -115,7 +115,7 @@ author_profile: true
 </ul>
 
 <div class="value-box">
-  <b>Valor para tu proyecto:</b> Estudios robustos de nivel académico e inobjetables ante la autoridad, reduciendo el riesgo de adendas adicionales o retrasos en la obtención de la RCA.
+  <b>Valor para tu proyecto:</b> Estudios robustos de nivel académico y técnico-científico ante la autoridad, reduciendo el riesgo de adendas adicionales o retrasos en la obtención de la RCA.
 </div>
 
 <hr>
