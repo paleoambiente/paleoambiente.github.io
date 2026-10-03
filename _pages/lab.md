@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collaborators"
+title: "Quiénes somos"
 permalink: /lab/
 author_profile: true
 
