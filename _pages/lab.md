@@ -98,7 +98,7 @@ author_profile: true
     <span class="team-badge">Acreditado Res. Ex. N° 650/2022 CMN</span>
   </div>
   <p>
-    <b>Doctor en Ciencias Geológicas.</b> Especialista en paleontología de vertebrados, estratigrafía y bioestratigrafía. Cuenta con una sólida trayectoria científica y publicaciones especializadas en patrimonio paleobiológico. Asume la dirección técnica, patrocinio institucional y validación formal de estudios, líneas de base y reportes de monitoreo ante el CMN y la SMA.
+    <b>Doctor en Ciencias Geológicas.</b> Especialista en paleontología general y paleoicnología. Cuenta con una sólida trayectoria científica y publicaciones especializadas en patrimonio paleobiológico. Asume la dirección técnica, patrocinio institucional y validación formal de estudios, líneas de base y reportes de monitoreo ante el CMN y la SMA.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
     🔗 <a href="https://www.researchgate.net/profile/Manuel-Rojas-Manriquez=es" target="_blank">Ver perfil académico en ResearchGate</a>
@@ -114,7 +114,7 @@ author_profile: true
     <span class="team-badge">Acreditado Res. Ex. N° 650/2022 CMN</span>
   </div>
   <p>
-    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
+    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Cuenta con una ascendente carrera científica con participación en proyectos de paleontología nacionales e internacionales. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
     🔗 <a href="https://asenjocarlos.github.io" target="_blank">Ver sitio web profesional</a>
