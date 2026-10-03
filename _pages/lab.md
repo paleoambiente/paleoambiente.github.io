@@ -114,7 +114,7 @@ author_profile: true
     <span class="team-badge">Acreditado Res. Ex. N° 650/2022 CMN</span>
   </div>
   <p>
-    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Cuenta con una ascendente carrera científica con participación en proyectos de paleontología nacionales e internacionales. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
+    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Cuenta con una ascendente carrera científica asociada a la paleobotánica y paleoicnología. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
     🔗 <a href="https://asenjocarlos.github.io" target="_blank">Ver sitio web profesional</a>
