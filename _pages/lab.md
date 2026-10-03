@@ -117,7 +117,7 @@ author_profile: true
     <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Cuenta con una ascendente carrera científica asociada a la paleobotánica y paleoicnología. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
-    🔗 <a href="https://asenjocarlos.github.io" target="_blank">Ver sitio web profesional</a>
+    🔗 <a href="https://cl.linkedin.com/in/carlos-asenjo-fernandoy-3b3857155"_blank">Ver sitio web profesional</a>
   </p>
 </div>
 
