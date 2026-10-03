@@ -1,278 +1,312 @@
----
-permalink: /
-title: ""
-excerpt: "Consultoría Paleontológica y Geológica Aplicada"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.md
-  - /about.html
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-<style>
-  /* Paleta Sedimentaria & Estratigráfica */
-  :root {
-    --earth-dark: #2c221e;      /* Arcilla/Lutita oscura */
-    --earth-brown: #4a3b32;     /* Sombra de matriz sedimentaria */
-    --earth-ochre: #8c5a3c;     /* Ocre/Óxido terracota */
-    --earth-clay: #c49a6c;      /* Arenisca / Arcilla clara */
-    --earth-light: #f5f2eb;     /* Matriz/Limo claro */
-    --earth-accent: #a34828;    /* Terracota fósil */
-    --border-color: #d1c7bd;
-  }
+# Site Settings
+locale                   : "en-US"
+title                    : "Paleoambiente Consultores"
+title_separator          : "-"
+name                     : "Paleoambiente Consultores"
+#description              : "This is my personal webpage"
+url                      : "https://paleoambiente.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : "academicpages/academicpages.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          :  # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-  p {
-    text-align: justify;
-    font-size: 1.05rem;
-    line-height: 1.6;
-    color: #332d29;
-  }
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
-  /* Hero Section */
-  .hero-home {
-    background: linear-gradient(135deg, var(--earth-dark) 0%, var(--earth-brown) 100%);
-    color: #ffffff;
-    padding: 2.5rem 2rem;
-    border-radius: 8px;
-    margin-bottom: 2rem;
-    border-left: 5px solid var(--earth-clay);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  }
+# Social Sharing
+twitter:
+  username               : #&twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
-  .hero-tag {
-    display: inline-block;
-    background-color: rgba(196, 154, 108, 0.2);
-    color: var(--earth-clay);
-    border: 1px solid var(--earth-clay);
-    padding: 0.2rem 0.75rem;
-    border-radius: 4px;
-    font-size: 0.82rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-  }
 
-  .hero-home h1 {
-    color: #fdfcfb;
-    font-size: 1.9rem;
-    margin-top: 0;
-    margin-bottom: 0.8rem;
-    line-height: 1.3;
-    font-weight: 700;
-  }
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 
-  .hero-home p {
-    color: #e6dfd5;
-    font-size: 1.05rem;
-    margin-bottom: 1.2rem;
-  }
 
-  /* Badges Normativos */
-  .norm-badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-    margin-top: 1.2rem;
-    padding-top: 1.2rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.15);
-  }
+# Site Author
+author:
+  name             : "Paleoambiente Consultores"
+  avatar           : "paleo1.png"
+  bio              : "Asesorías Geologicas y paleontológicas"
+  location         : "Santiago, Chile"
+  employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "paleoambienteconsultores@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  #github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : #"https://www.linkedin.com/in/alida-perez-fodich-a0a934a3/"
+  orcid            : "https://orcid.org/"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  #twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-  .badge-item {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid var(--earth-clay);
-    color: #f5f2eb;
-    padding: 0.4rem 0.8rem;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    font-weight: 500;
-  }
 
-  /* Encabezados de Sección */
-  .section-title {
-    color: var(--earth-dark);
-    font-size: 1.45rem;
-    font-weight: 700;
-    border-bottom: 2px solid var(--earth-ochre);
-    padding-bottom: 0.3rem;
-    margin-top: 2.2rem;
-    margin-bottom: 1.2rem;
-  }
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-  /* Grid de Competencias */
-  .pillars-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1.2rem;
-    margin-bottom: 2rem;
-  }
 
-  .pillar-card {
-    background-color: #ffffff;
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    padding: 1.3rem;
-    border-top: 4px solid var(--earth-ochre);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
-  }
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-  .pillar-card h3 {
-    color: var(--earth-dark);
-    font-size: 1.15rem;
-    margin-top: 0;
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-  }
 
-  .pillar-card p {
-    font-size: 0.95rem;
-    color: #4a4440;
-    margin-bottom: 0;
-  }
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-  /* Bloque Misión / Visión */
-  .mv-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.2rem;
-    margin-top: 1.2rem;
-  }
 
-  .mv-box {
-    background-color: var(--earth-light);
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    padding: 1.3rem;
-  }
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
-  .mv-box h3 {
-    color: var(--earth-accent);
-    margin-top: 0;
-    font-size: 1.2rem;
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-  }
 
-  /* Imagen */
-  .brand-img {
-    display: block;
-    margin: 2rem auto;
-    max-width: 420px;
-    width: 100%;
-    height: auto;
-    border-radius: 6px;
-    border: 1px solid var(--border-color);
-  }
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
-  /* Banner de Contacto */
-  .cta-banner {
-    background-color: var(--earth-dark);
-    color: #ffffff;
-    border-radius: 6px;
-    padding: 1.8rem;
-    text-align: center;
-    margin-top: 2.2rem;
-    border-bottom: 4px solid var(--earth-accent);
-  }
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-  .cta-banner h3 {
-    color: var(--earth-clay);
-    margin-top: 0;
-    font-size: 1.3rem;
-  }
 
-  .btn-primary {
-    display: inline-block;
-    background-color: var(--earth-accent);
-    color: #ffffff !important;
-    font-weight: 600;
-    padding: 0.65rem 1.5rem;
-    border-radius: 4px;
-    text-decoration: none;
-    margin-top: 0.8rem;
-    transition: background-color 0.2s ease;
-  }
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Santiago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-  .btn-primary:hover {
-    background-color: #84371d;
-  }
-</style>
 
-<!-- HERO -->
-<div class="hero-home">
-  <span class="hero-tag">Geociencias Aplicadas & Paleontología de Campo</span>
-  <h1>Rigor Científico al Servicio de la Viabilidad de Proyectos</h1>
-  <p>
-    En <b>Paleoambiente SpA</b> integramos el trabajo estratigráfico y paleontológico de nivel académico con la gestión operativa requerida en terreno. Resolvemos los compromisos ambientales ante el Consejo de Monumentos Nacionales (CMN) y el SEIA con decisiones técnicas certeras y eficientes.
-  </p>
+# Plugins
+plugins:
+  - jekyll-paginate
+#  - jekyll-sitemap
+  - jekyll-gist
+#  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-include-cache
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+#  - jekyll-sitemap
+  - jekyll-gist
+#  - jekyll-feed
+  - jemoji
 
-  <div class="norm-badges">
-    <div class="badge-item">✓ Especialistas de Terreno</div>
-    <div class="badge-item">✓ Cumplimiento Ley 17.288</div>
-    <div class="badge-item">✓ Tramitación PAS 132 (SEIA)</div>
-    <div class="badge-item">✓ Inspección y Monitoreo Paleontológico</div>
-  </div>
-</div>
 
-<!-- SERVICIOS TÉCNICOS -->
-<h2 class="section-title">Especialidades Técnicas</h2>
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
-<div class="pillars-grid">
-  <div class="pillar-card">
-    <h3>🔍 Monitoreo Paleontológico en Obra</h3>
-    <p>
-      Presencia técnica directa en excavaciones y movimientos de tierra. Identificación en terreno de horizontes fosilíferos, control de hallazgos y gestión directa para evitar detenciones innecesarias.
-    </p>
-  </div>
 
-  <div class="pillar-card">
-    <h3>📜 Permisos & Rescates (CMN)</h3>
-    <p>
-      Elaboración de solicitudes de prospección y excavación (Art. 22 y 23 de la Ley N° 17.288), ejecución de planes de rescate, microexcavación y salvataje de material fosilífero.
-    </p>
-  </div>
-
-  <div class="pillar-card">
-    <h3>🗺️ Líneas de Base y Estratigrafía</h3>
-    <p>
-      Líneas de base paleontológicas y geológicas precisas para DIAs y EIAs. Levantamiento de columnas sedimentarias, cartografía y análisis de potencial fosilífero inobjetable.
-    </p>
-  </div>
-</div>
-
-<!-- ENFOQUE CORPORATIVO -->
-<h2 class="section-title">Nuestra Propuesta</h2>
-
-<p>
-  Somos paleontólogos y geólogos dedicados al ejercicio técnico de la especialidad. Entendemos las exigencias normativas del Sistema de Evaluación de Impacto Ambiental y los tiempos reales de la ingeniería. Operamos sin intermediarios ni burocracia, entregando informes de alta calidad científica que responden exactamente a lo requerido por la autoridad.
-</p>
-
-<div class="mv-grid">
-  <div class="mv-box">
-    <h3>Misión</h3>
-    <p>
-      Proporcionar soluciones paleontológicas y geológicas fundadas en el rigor científico y el conocimiento directo del terreno. Garantizamos el cumplimiento estricto de la normativa ambiental en Chile, protegiendo tanto el patrimonio paleontológico como la continuidad de los proyectos de nuestros clientes.
-    </p>
-  </div>
-
-  <div class="mv-box">
-    <h3>Visión</h3>
-    <p>
-      Ser una consultora técnica de referencia en geociencias, destacada por la solidez técnica de sus estudios, la transparencia en el diagnóstico y la capacidad de resolver contingencias operativas con criterio experto.
-    </p>
-  </div>
-</div>
-
-<img src="/images/paleo1.png" alt="Paleoambiente SpA — Geociencias y Consultoría Paleontológica" class="brand-img">
-
-<!-- CONTACTO -->
-<div class="cta-banner">
-  <h3>¿Requiere evaluar el componente paleontológico de su proyecto?</h3>
-  <p style="color: #e6dfd5; margin-bottom: 0.5rem;">
-    Analizamos sus requerimientos para fases de prefactibilidad, evaluación ambiental (SEIA) o ejecución de obras.
-  </p>
-  <a href="mailto:paleoambienteconsultores@gmail.com" class="btn-primary">Solicitar Evaluación Técnica</a>
-  <p style="font-size: 0.88rem; color: #c49a6c; margin-top: 1rem; margin-bottom: 0;">
-    📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 / +56 9 78006975</b>
-  </p>
-</div>
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
