@@ -13,7 +13,13 @@ Intereses de investigación: Paleoicnología - sedimentología
 ---
 
 <img style="float: center;" src="/images/monitoreo1.jpeg" width = "290" height = "290">
-<br><b><a href="https://asenjocarlos.github.io">Carlos Asenjo Fernandoy</a></b>, Geólogo y paleontológo monitor para proyectos de inversión.<br>
-Intereses de investigación: Paleoicnología - Paleobotánica - Geología sedimentaria - estratigrafía.
+<br><b><a href="https://asenjocarlos.github.io">Carlos Asenjo Fernandoy</a></b>, Geólogo especialista en paleontología.<br>
+Intereses de investigación: Paleoicnología - Paleobotánica - estratigrafía.
+
+---
+
+<img style="float: center;" src="/images/marti.jpeg" width = "290" height = "290">
+<br><b><a href="https:https://cl.linkedin.com/in/martinadannenberg">Martina Dannenberg</a></b>, Geóloga junior<br>
+Intereses de investigación: Estratigrafía - paleontología general.
 
 ---
