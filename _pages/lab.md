@@ -93,7 +93,7 @@ author_profile: true
 <div class="team-card">
   <img src="/images/manu2.jpeg" alt="Dr. Manuel Rojas Manríquez" class="team-img">
   <h3 class="team-name">Dr. Manuel Andrés Rojas Manríquez</h3>
-  <div class="team-role">Director Científico & Paleontólogo Titular</div>
+  <div class="team-role">Representante legal - Paleontólogo</div>
   <div class="badge-container">
     <span class="team-badge">Acreditado Res. Ex. N° 650/2022 CMN</span>
   </div>
@@ -109,12 +109,12 @@ author_profile: true
 <div class="team-card">
   <img src="/images/monitoreo1.jpeg" alt="Carlos Asenjo Fernandoy" class="team-img">
   <h3 class="team-name">Carlos Asenjo Fernandoy</h3>
-  <div class="team-role">Socio Director & Geólogo Especialista en Paleontología</div>
+  <div class="team-role">Consultor on demand</div>
   <div class="badge-container">
     <span class="team-badge">Acreditado Res. Ex. N° 650/2022 CMN</span>
   </div>
   <p>
-    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura, edificación masiva y minería. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
+    <b>Geólogo de la Universidad Andrés Bello.</b> Especialista en gestión de patrimonio paleontológico, estratigrafía y monitoreos ambientales en obras de infraestructura. Lidera la coordinación de proyectos, relaciones con mandantes y la supervisión de planes de monitoreo en terreno.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
     🔗 <a href="https://asenjocarlos.github.io" target="_blank">Ver sitio web profesional</a>
@@ -136,7 +136,7 @@ author_profile: true
     <span class="team-badge">Área Geología & Paleontología</span>
   </div>
   <p>
-    <b>Geóloga.</b> Especializada en inspecciones de superficie, estratigrafía de campo, control de frentes de excavación y dictación de charlas de inducción a personal de obra. Encargada de la toma de datos geoespaciales y control de hallazgos fortuitos.
+    <b>Geóloga.</b> Especializada en inspecciones de superficie, estratigrafía de campo, control de frentes de excavación y dictación de charlas de inducción a personal de obra. Colaboradora de monitoreos paleontológicos.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
     🔗 <a href="https://cl.linkedin.com/in/martinadannenberg" target="_blank">Ver perfil en LinkedIn</a>
