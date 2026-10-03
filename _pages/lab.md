@@ -101,7 +101,7 @@ author_profile: true
     <b>Doctor en Ciencias Geológicas.</b> Especialista en paleontología general y paleoicnología. Cuenta con una sólida trayectoria científica y publicaciones especializadas en patrimonio paleobiológico. Asume la dirección técnica, patrocinio institucional y validación formal de estudios, líneas de base y reportes de monitoreo ante el CMN y la SMA.
   </p>
   <p style="text-align: center; margin-bottom: 0;">
-    🔗 <a href="https://www.researchgate.net/profile/Manuel-Rojas-Manriquez=es" target="_blank">Ver perfil académico en ResearchGate</a>
+    🔗 <a href="https://www.researchgate.net/profile/Manuel-Rojas-Manriquez" target="_blank">Ver perfil académico en ResearchGate</a>
   </p>
 </div>
 
