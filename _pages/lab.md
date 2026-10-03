@@ -19,7 +19,7 @@ Intereses de investigación: Paleoicnología - Paleobotánica - estratigrafía.
 ---
 
 <img style="float: center;" src="/images/marti.jpeg" width = "290" height = "290">
-<br><b><a href="https:https://cl.linkedin.com/in/martinadannenberg">Martina Dannenberg</a></b>, Geóloga junior<br>
+<br><b><a href="https://cl.linkedin.com/in/martinadannenberg">Martina Dannenberg</a></b>, Geóloga junior<br>
 Intereses de investigación: Estratigrafía - paleontología general.
 
 ---
