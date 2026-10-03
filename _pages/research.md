@@ -258,6 +258,6 @@ author_profile: true
   <p style="text-align: center; color: #cbd5e1;">Contáctanos directamente para cotizar o revisar tus requerimientos normativos con nuestro equipo de titulares.</p>
   <a href="mailto:paleoambienteconsultores@gmail.com" class="cta-button">Solicitar Cotización u Asesoría</a>
   <p style="text-align: center; font-size: 0.95rem; margin-top: 1rem; color: #94a3b8;">
-    📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 / +56 9 78006975</b>
+    📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 </b>
   </p>
 </div>
