@@ -313,6 +313,6 @@ redirect_from:
   </p>
   <a href="mailto:paleoambienteconsultores@gmail.com" class="btn-primary">Contactar a un Especialista</a>
   <p style="font-size: 0.9rem; color: #c49a6c; margin-top: 1rem; margin-bottom: 0;">
-    📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 / +56 9 78006975</b>
+    📧 <b>paleoambienteconsultores@gmail.com</b> | 📱 <b>+56 9 64167140 
   </p>
 </div>
